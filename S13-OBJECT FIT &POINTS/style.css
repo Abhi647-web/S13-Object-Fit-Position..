@@ -1,0 +1,56 @@
+.manam{
+    width: 200px;
+    height: 500px;
+    background-color: chartreuse;
+    border: 20px solid red;
+    border-radius: 24px;
+}
+#manam1{
+    object-fit: fill;
+}
+#manam2{
+    object-fit: contain;
+}
+#manam3{
+    object-fit: cover;
+    object-position: -380px 0px;
+}
+#manam4{
+    object-fit: none;
+}
+#manam5{
+    object-fit: scale-down;
+}
+div{
+    width: 809px;
+    border: 2px inset lightskyblue;
+    border-radius: 13px;
+    background-color:deepskyblue
+}
+.akkineni1{
+    width: 400px;
+    height: 350px;
+    border: 1.5px ridge red;
+    border-radius: 100px;
+}
+#ANR{
+    object-fit: fill;
+}
+#nagarjuna{
+    object-fit: none;
+    object-position: -590px -20px;
+
+}
+#chaitanya{
+    object-fit: none;
+    object-position: -489px -56px;
+}
+#akhil{
+    object-fit: cover;
+    object-position: -50px 0px;
+}
+#div1{
+  margin-left: 340px;
+}
+
+
